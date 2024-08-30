@@ -1,0 +1,19 @@
+:host{
+    display: flex;
+}
+
+[nz-menu]{
+    width: 240px;
+}
+
+.wrapper{
+    width: 240px;
+}
+
+.right-wrapper{
+    height: 100px;
+    flex-grow: 1;
+}
+.right-wrapper img{
+    width: 100%;
+}
